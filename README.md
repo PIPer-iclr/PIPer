@@ -43,9 +43,11 @@ Our approach combines:
 
 ### 📊 Datasets
 
-| Dataset | Description | HuggingFace Link |
-|---------|-------------|------------------|
-| **EnvBench Zero-shot RL** | Training prompts and evaluation data | [PIPer-iclr/envbench-zeroshot-rl](https://huggingface.co/datasets/PIPer-iclr/envbench-zeroshot-rl) |
+| Dataset                   | Description                                            | HuggingFace Link                                                                                    |
+|---------------------------|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **EnvBench Zero-shot RL** | Training prompts and evaluation data                   | [PIPer-iclr/envbench-zeroshot-rl](https://huggingface.co/datasets/PIPer-iclr/envbench-zeroshot-rl)  |
+| **EnvBench SFT 2500**     | Zeroshot trajectories from Qwen-32B in ShareGPT format | [PIPer-iclr/PIPer-SFT-2500-sharegpt](https://huggingface.co/datasets/PIPer-iclr/PIPer-SFT-2500-sharegpt)  |
+| **PIPer Eval**            | Full evaluation results for EnvBench and Repo2Run      | [PIPer-iclr/PIPer-eval](https://huggingface.co/datasets/PIPer-iclr/PIPer-eval/tree/main)  |
 
 
 ## 🚀 Reproduce the results
