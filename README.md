@@ -37,9 +37,9 @@ Our approach combines:
 
 | Model | Description | HuggingFace Link |
 |-------|-------------|------------------|
-| **🏅 PIPer (Full)** | Complete SFT+RL trained model | [PIPer-iclr/piper-full](https://huggingface.co/PIPer-iclr/PIPer-8B) |
-| 🎯 PIPer (RL-only) | RLVR checkpoint only | [PIPer-iclr/piper-rl-only](https://huggingface.co/PIPer-iclr/PIPer-8B-RL-only) |
-| 📚 PIPer (SFT-only) | Supervised fine-tuning only | [PIPer-iclr/piper-sft-only](https://huggingface.co/PIPer-iclr/PIPer-8B-SFT-only) |
+| **🏅 PIPer (Full)** | Complete SFT+RL trained model | [PIPer-iclr/PIPer-8B](https://huggingface.co/PIPer-iclr/PIPer-8B) |
+| 🎯 PIPer (RL-only) | RLVR checkpoint only | [PIPer-iclr/PIPer-8B-RL-only](https://huggingface.co/PIPer-iclr/PIPer-8B-RL-only) |
+| 📚 PIPer (SFT-only) | Supervised fine-tuning only | [PIPer-iclr/PIPer-8B-SFT-only](https://huggingface.co/PIPer-iclr/PIPer-8B-SFT-only) |
 
 ### 📊 Datasets
 
