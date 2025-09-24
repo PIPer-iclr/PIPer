@@ -81,14 +81,6 @@ uv run piper/hparams_entrypoint.py +experiment=llm-reward --info config
 | **Repo2Run** | 420 Python repositories | pass@5 | 🏆 **103/420** |
 | **Terminal-Bench** | 80 terminal tasks | pass@10 | **4/80** |
 
-
-
-## 🙏 Acknowledgments
-
-- Built on top of [EnvBench](https://github.com/princeton-nlp/EnvBench) evaluation framework
-- Uses [VeRL](https://github.com/volcengine/verl) for efficient RL training
-- Leverages [Qwen3](https://huggingface.co/Qwen) model family as base architecture
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
